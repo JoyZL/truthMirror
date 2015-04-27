@@ -1,0 +1,6 @@
+ofxOpenCv
+ofxXmlSettings
+ofxCv
+ofxDelaunay
+ofxFaceTracker
+ofxUI
